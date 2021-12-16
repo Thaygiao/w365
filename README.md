@@ -2,4 +2,4 @@
 
 Build a quick and dirty image for Windows 365.
 
-Run [`Install-Apps.ps1`](Install-Apps.ps`) to install applications into an image.
+Run [`Install-Apps.ps1`](Install-Apps.ps1) to install applications into an image.
