@@ -1,2 +1,24 @@
-*.rbc
-*.fyc
+# Cache objects
+packer_cache/
+
+# Crash log
+crash.log
+
+# For built boxes
+*.box
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Azure Functions artifacts
+bin
+obj
+appsettings.json
+local.settings.json
