@@ -11,7 +11,7 @@ repo_url: "" #https://github.com/aaronparker/packer
 edit_uri: ""
 
 # Copyright
-copyright: Copyright &copy; 2021 Aaron Parker
+copyright: Copyright &copy; 2022 Aaron Parker
 
 # Configuration
 theme:
@@ -29,8 +29,8 @@ theme:
   language: en
   features:
     - navigation.instant
-    - navigation.top
-    - navigation.tabs
+    #- navigation.top
+    #- navigation.tabs
     - navigation.expand
   palette:
     - scheme: default
@@ -56,11 +56,11 @@ theme:
   # Table sort
 extra_javascript:
   - https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.2.1/tablesort.min.js
-  - javascripts/tables.js
+  #- javascripts/tables.js
 
 # Plugins
 plugins:
-  - search
+  #- search
   - redirects:
       redirect_maps:
   - minify:
@@ -119,4 +119,4 @@ extra:
   generator: false
 
 nav:
-  - Introduction: index.md
+  - Home: index.md
