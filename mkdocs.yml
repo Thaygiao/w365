@@ -34,13 +34,13 @@ theme:
     - navigation.expand
   palette:
     - scheme: default
-      primary: white
+      primary: purple
       accent: white
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
     - scheme: slate
-      primary: white
+      primary: purple
       accent: white
       toggle:
         icon: material/toggle-switch
@@ -51,7 +51,7 @@ theme:
   favicon: assets/favicon.png
   #icon:
     #logo: logo
-  logo: assets/images/packer.png
+  logo: assets/images/start.png
 
   # Table sort
 extra_javascript:
