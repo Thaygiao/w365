@@ -6,8 +6,8 @@ site_description: >-
   Build a quick and dirty image for Windows 365
 
 # Repository
-repo_name: "" #aaronparker/packer
-repo_url: "" #https://github.com/aaronparker/packer
+repo_name: "aaronparker/packer"
+repo_url: "https://github.com/aaronparker/w365"
 edit_uri: ""
 
 # Copyright
