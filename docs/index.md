@@ -14,7 +14,7 @@ Running the following script on a virtual machine deployed into Azure, will inst
 * Microsoft Visual C++ Redistributables
 * Microsoft FSLogix Apps Agent
 * Microsoft Edge
-* Microsoft 365 APps
+* Microsoft 365 Apps
 * Microsoft Teams
 * Microsoft OneDrive
 * Adobe Acrobat Reader DC
